@@ -1,0 +1,79 @@
+@font-face {
+	font-family: 'HelveticaNeue-Condensed';
+	src: url('../fonts/helvetica-neue-condensed.otf') format('opentype');
+}
+
+@font-face {
+	font-family: 'HelveticaNeueLTStd-Bd';
+	src: url('../fonts/HelveticaNeueLTStd-Bd.otf') format('opentype');
+}
+
+@font-face {
+	font-family: 'HelveticaNeueLTStd-BdCn';
+	src: url('../fonts/HelveticaNeueLTStd-BdCn.otf') format('opentype');
+}
+
+@font-face {
+	font-family: 'HelveticaNeueLTStd-Md';
+	src: url('../fonts/HelveticaNeueLTStd-Md.otf') format('opentype');
+}
+
+@font-face {
+	font-family: 'HelveticaNeueLTStd-Roman';
+	src: url('../fonts/HelveticaNeueLTStd-Roman.otf') format('opentype');
+}
+
+@font-face {
+	font-family: 'Oswald-Light';
+	src: url('../fonts/Oswald/Oswald-Light.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Oswald-Regular';
+	src: url('../fonts/Oswald/Oswald-Regular.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Oswald-Bold';
+	src: url('../fonts/Oswald/Oswald-Bold.ttf') format('truetype');
+}
+
+.HelveticaNC {
+	font-family: 'HelveticaNeue-Condensed';
+}
+
+.HelveticaNB {
+	font-family: 'HelveticaNeueLTStd-Bd';
+}
+
+.HelveticaNBC {
+	font-family: 'HelveticaNeueLTStd-BdCn';
+}
+
+.HelveticaNM {
+	font-family: 'HelveticaNeueLTStd-Md';
+}
+
+.HelveticaNR {
+	font-family: 'HelveticaNeueLTStd-Roman';
+}
+
+.OswaldL {
+	font-family: 'Oswald-Light';
+}
+
+.OswaldR {
+	font-family: 'Oswald-Regular';
+}
+
+.OswaldB {
+	font-family: 'oswald-bold';
+	font-size: 3em;
+	color: red;
+}
+
+.myClass {
+	color: red;
+	font-family: oswald-bold, sans-serif;
+}
+
